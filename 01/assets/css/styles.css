@@ -14,7 +14,14 @@ header h1{
     text-transform: capitalize;
     margin: 0 auto;
 }
+
 header h1{
     text-align: center;
     text-transform: capitalize;
 }
+
+head h1{
+    text-align: center;
+}
+
+
