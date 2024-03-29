@@ -5,14 +5,16 @@ header h1{
 }
 aside p{
     text-align: center;
+    
 }
-header h2{
+header h1{
     text-align: center;
     padding-top: 3rem;
     padding-bottom: 1rem;
     text-transform: capitalize;
     margin: 0 auto;
-
-
-
-
+}
+header h1{
+    text-align: center;
+    text-transform: capitalize;
+}
