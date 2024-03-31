@@ -1,7 +1,7 @@
 .lateral{
     background-color: rgba(1, 18, 18, 0.756);
     float: left;
-    height: 1020px;
+    height: 720px;
     width: 180px;
 }
 .btn-inicio{
@@ -30,19 +30,43 @@
 .derecha{
     background-color: rgba(1, 18, 18, 0.756);
     float: right;
-    height: 1020px;
+    height: 720px;
     width: 180px;
 }
 header h1{
     background-color: aqua;
     color: white;
     text-align: center;
-    height: 150px;
+    height: 180px;
     max-width: 75.4%;
     margin: 0 auto;
-
-
-    
 }
+header h2{
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    height: 180px;
+    max-width: 75.4%;
+    margin: 0 auto;
+}
+header h3{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    height: 180px;
+    max-width: 75.4%;
+    margin: 0 auto;
+}
+header h4{
+    background-color: red;
+    color: white;
+    text-align: center;
+    height: 180px;
+    max-width: 75.4%;
+    margin: 0 auto;
+}
+
+
+
 
 
