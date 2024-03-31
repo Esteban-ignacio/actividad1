@@ -1,100 +1,104 @@
 .lateral{
-    background-color: rgba(1, 18, 18, 0.756);
+    background-color: rgb(1, 18, 18);
     float: left;
     height: 720px;
     width: 180px;
 }
 .btn-inicio{
-    background-color:  rgba(1, 18, 18, 0.756);
+    background-color:  rgb(1, 18, 18);
     color: white;
 }
 .btn-inicio:hover{
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.099);
+    background-color: rgb(1, 18, 18);
     transition: .3s ease-in;
     font-weight: bold;
 
 }
 .btn-nosotros{
-    background-color:  rgba(1, 18, 18, 0.756);
+    background-color:  rgb(1, 18, 18);
     color: white;
 
 }
 .btn-nosotros:hover{
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.099);
+    background-color: rgb(1, 18, 18);
     transition: .3s ease-in;
     font-weight: bold;
 }
 .btn-perros{
-    background-color:  rgba(1, 18, 18, 0.756);
+    background-color:  rgb(1, 18, 18);
     color: white;
 
 }
 .btn-perros:hover{
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.099);
+    background-color: rgb(1, 18, 18);
     transition: .3s ease-in;
     font-weight: bold;
 }
 .btn-gatos{
-    background-color:  rgba(1, 18, 18, 0.756);
+    background-color:  rgb(1, 18, 18);
     color: white;
 
 }
 .btn-gatos:hover{
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.099);
+    background-color: rgb(1, 18, 18);
     transition: .3s ease-in;
     font-weight: bold;
 }
 .btn-contacto{
-    background-color:  rgba(1, 18, 18, 0.756);
+    background-color:  rgb(1, 18, 18);
     color: white;
 }
 .btn-contacto:hover{
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.099);
+    background-color: rgb(1, 18, 18);
     transition: .3s ease-in;
     font-weight: bold;
 }
 .derecha{
-    background-color: rgba(1, 18, 18, 0.756);
+    background-color:  rgb(1, 18, 18);
     float: right;
     height: 720px;
-    width: 180px;
+    width: 80px;
 }
 header h1{
     background-color: aqua;
     color: white;
     text-align: center;
     height: 180px;
-    max-width: 75.4%;
+    max-width: 100%;
     margin: 0 auto;
+    font-size: 33px;
 }
 header h2{
     background-color: yellow;
     color: white;
     text-align: center;
     height: 180px;
-    max-width: 75.4%;
+    max-width: 100%;
     margin: 0 auto;
+    font-size: 33px;
 }
 header h3{
     background-color: orange;
     color: white;
     text-align: center;
     height: 180px;
-    max-width: 75.4%;
+    max-width: 100%;
     margin: 0 auto;
+    font-size: 33px;
 }
 header h4{
     background-color: red;
     color: white;
     text-align: center;
     height: 180px;
-    max-width: 75.4%;
+    max-width: 100%;
     margin: 0 auto;
+    font-size: 33px;
 }
 
 
