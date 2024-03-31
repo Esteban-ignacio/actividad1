@@ -8,24 +8,55 @@
     background-color:  rgba(1, 18, 18, 0.756);
     color: white;
 }
+.btn-inicio:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.099);
+    transition: .3s ease-in;
+    font-weight: bold;
+
+}
 .btn-nosotros{
     background-color:  rgba(1, 18, 18, 0.756);
     color: white;
 
+}
+.btn-nosotros:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.099);
+    transition: .3s ease-in;
+    font-weight: bold;
 }
 .btn-perros{
     background-color:  rgba(1, 18, 18, 0.756);
     color: white;
 
 }
+.btn-perros:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.099);
+    transition: .3s ease-in;
+    font-weight: bold;
+}
 .btn-gatos{
     background-color:  rgba(1, 18, 18, 0.756);
     color: white;
 
 }
+.btn-gatos:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.099);
+    transition: .3s ease-in;
+    font-weight: bold;
+}
 .btn-contacto{
     background-color:  rgba(1, 18, 18, 0.756);
     color: white;
+}
+.btn-contacto:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.099);
+    transition: .3s ease-in;
+    font-weight: bold;
 }
 .derecha{
     background-color: rgba(1, 18, 18, 0.756);
