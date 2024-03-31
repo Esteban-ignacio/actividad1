@@ -26,5 +26,23 @@
 .btn-contacto{
     background-color:  rgba(1, 18, 18, 0.756);
     color: white;
-
 }
+.derecha{
+    background-color: rgba(1, 18, 18, 0.756);
+    float: right;
+    height: 1020px;
+    width: 180px;
+}
+header h1{
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    height: 150px;
+    max-width: 75.4%;
+    margin: 0 auto;
+
+
+    
+}
+
+
