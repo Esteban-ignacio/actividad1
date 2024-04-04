@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(128, 128, 128, 0.548);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    color: orange;
+    padding-top: 5rem;
+
+}
+.subtitulo{
+    display: flex;
+    justify-content: center;
+    text-transform: lowercase;
+}
