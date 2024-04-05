@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(128, 128, 128, 0.548);
+    background-color: rgba(0, 247, 255, 0.937);
 }
 
 .titulo{
@@ -13,4 +13,66 @@ body{
     display: flex;
     justify-content: center;
     text-transform: lowercase;
+    
+    
 }
+.imagen1{
+    text-align: center;
+}
+
+
+.dog{
+    height: 300px;
+    width: 400px;
+    padding-top: 5rem;
+}
+.perro1{
+    text-align: left;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.cachulo{
+    height: 200px; ;
+    width: 200px;
+}
+
+.perro2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+    padding-left: 20rem;
+}
+.niña{
+    height: 200px; ;
+    width: 200px;
+}
+.perro3{
+     display: flex;
+     flex-direction: row;
+     padding-top: 5rem;
+     padding-left: 20rem;
+}
+.flaca{
+    height: 200px; ;
+    width: 200px;
+}
+.perros{
+    display: flex;
+    flex-direction: row;
+}
+.nombre1{
+    text-align: left;
+    padding-left: 8rem;
+}
+.nombre2{
+    padding-left: 460px;
+}
+.nombre3{
+    padding-left: 460px;
+}
+.nombres{
+    display: flex;
+    flex-direction: row;
+}
+
+
