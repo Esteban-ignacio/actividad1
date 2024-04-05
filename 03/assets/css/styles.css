@@ -65,10 +65,10 @@ body{
     padding-left: 8rem;
 }
 .nombre2{
-    padding-left: 460px;
+    padding-left: 500px;
 }
 .nombre3{
-    padding-left: 460px;
+    padding-left: 500px;
 }
 .nombresp{
     display: flex;
@@ -118,6 +118,96 @@ body{
     padding-left: 460px;
 }
 .nombresg{
+    display: flex;
+    flex-direction: row;
+}
+.imagen-cachulo{
+    height: 600px; ;
+    width: 500px;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.datos-cachulo{
+    text-align: center;
+    padding-top: 13rem;
+    padding-left: 13rem;
+}
+.ordenar-datos-cachulo{
+    display: flex;
+    flex-direction: row;
+}
+.imagen-niña{
+    height: 600px; ;
+    width: 500px;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.datos-niña{
+    text-align: center;
+    padding-top: 13rem;
+    padding-left: 13rem;
+}
+.ordenar-datos-niña{
+    display: flex;
+    flex-direction: row;
+}
+.imagen-flaca{
+    height: 600px; ;
+    width: 500px;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.datos-flaca{
+    text-align: center;
+    padding-top: 13rem;
+    padding-left: 13rem;
+}
+.ordenar-datos-flaca{
+    display: flex;
+    flex-direction: row;
+}
+.imagen-ginger{
+    height: 600px; ;
+    width: 500px;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.datos-ginger{
+    text-align: center;
+    padding-top: 13rem;
+    padding-left: 13rem;
+}
+.ordenar-datos-ginger{
+    display: flex;
+    flex-direction: row;
+}
+.imagen-tommy{
+    height: 600px; ;
+    width: 500px;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.datos-tommy{
+    text-align: center;
+    padding-top: 13rem;
+    padding-left: 13rem;
+}
+.ordenar-datos-tommy{
+    display: flex;
+    flex-direction: row;
+}
+.imagen-lucifer{
+    height: 600px; ;
+    width: 500px;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.datos-lucifer{
+    text-align: center;
+    padding-top: 13rem;
+    padding-left: 13rem;
+}
+.ordenar-datos-lucifer{
     display: flex;
     flex-direction: row;
 }
