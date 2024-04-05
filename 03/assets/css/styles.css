@@ -70,9 +70,55 @@ body{
 .nombre3{
     padding-left: 460px;
 }
-.nombres{
+.nombresp{
     display: flex;
     flex-direction: row;
 }
-
+.gato1{
+    text-align: left;
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+.ginger{
+    height: 200px; ;
+    width: 200px;
+}
+.gato2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+    padding-left: 20rem;
+}
+.tommy{
+    height: 200px; ;
+    width: 200px;
+}
+.gato3{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+    padding-left: 20rem;
+}
+.lucifer{
+    height: 200px; ;
+    width: 200px;
+}
+.gatos{
+    display: flex;
+    flex-direction: row;
+}
+.nombre4{
+    text-align: left;
+    padding-left: 8rem;
+}
+.nombre5{
+    padding-left: 460px;
+}
+.nombre6{
+    padding-left: 460px;
+}
+.nombresg{
+    display: flex;
+    flex-direction: row;
+}
 
